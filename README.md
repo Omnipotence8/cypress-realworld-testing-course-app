@@ -10,6 +10,9 @@ npx cypress open
 
 ![image](https://user-images.githubusercontent.com/45335405/195449394-f73f037b-ec59-4ffb-b506-3cdc0fd8ead0.png)
 
+![image](https://user-images.githubusercontent.com/45335405/195457223-561e66e4-1f04-40e5-8fff-b8d4e65654b2.png)
+
+
 TypeScript
 Cypress ships with official type declarations for TypeScript. This allows you to write your tests in TypeScript.
 
